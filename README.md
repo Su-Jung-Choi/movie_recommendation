@@ -1,2 +1,1 @@
-The movie_recommendations_project.ipynb file is done in Spring 2023 for a data mining course's group project.
-We built Movie Recommender Systems using KNN and SVD algorithms from the scikit-learn library and the Apriori algorithm from the mlxtend library. 
+The "movie_recommendations_project.ipynb" file was completed during the Spring of 2023 as part of a group project for a data mining course. In this project, we constructed Movie Recommender Systems utilizing the KNN and SVD algorithms from the scikit-learn library, along with the Apriori algorithm from the mlxtend library.
